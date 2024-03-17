@@ -36,7 +36,6 @@ Beiträge sind immer willkommen! Wenn du Verbesserungen vornehmen möchtest, ein
 
 ## Unterstützung
 
-Wenn dir dieses Projekt gefällt und du mich unterstützen möchtest, kannst du gerne [![Perry Design]](https://www.buymeacoffee.com/perrydesign) kaufen!
-<iframe src="https://giphy.com/embed/RETzc1mj7HpZPuNf3e" width="480" height="222" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/buymeacoffee-transparent-buy-me-a-coffee-support-RETzc1mj7HpZPuNf3e">via GIPHY</a></p>
+Wenn dir dieses Projekt gefällt und du mich unterstützen möchtest, kannst du gerne <a href="https://www.buymeacoffee.com/PerryDesign" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> kaufen!
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der Datei `LICENSE`.
