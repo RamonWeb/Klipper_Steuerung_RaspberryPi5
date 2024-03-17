@@ -41,3 +41,21 @@ Wenn dir dieses Projekt gefällt und du mich unterstützen möchtest, kannst du 
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der Datei `LICENSE`.
+
+Hardwarelinks
+
+
+Raspberry Pi 5
+
+Pimoroni NVMe Basis										 	--> https://www.amazon.de/dp/B0CTK1RLN5
+
+Pi 5 Kamera Kabel Csi Display Dis Kabel 22pin bis 15 Pin	--> https://s.click.aliexpress.com/e/_Dn23HRj
+
+Pi 5 Null-Kamera kabel 15 30 cm Farbband 					--> https://s.click.aliexpress.com/e/_Deio6RJ
+
+ffc flexible kabel adapter platine 							--> https://s.click.al0express.com/e/_DE63QrP
+
+Raspberry pi 4 kamera 5mp 									--> https://s.click.aliexpress.com/e/_DkESS4p
+
+Sensor adxl345 digitale dreiachsige Beschleunigung 			--> https://s.click.aliexpress.com/e/_DCgDxRF
+
