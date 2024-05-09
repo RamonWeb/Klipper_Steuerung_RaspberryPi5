@@ -59,6 +59,13 @@ Wenn dir dieses Projekt gefällt und du mich unterstützen möchtest, kannst du 
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen findest du in der Datei `LICENSE`.
 
+#################
+Gehäuse ist ein Remix of "Raspberry Pi 4 & 5 Mini Server Rack Case" 
+https://makerworld.com/models/180806
+ by @jonthemiller
+################
+
+
 Hardwarelinks
 
 
