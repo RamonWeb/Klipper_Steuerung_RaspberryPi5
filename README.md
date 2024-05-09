@@ -1,4 +1,4 @@
-Update 14.04.2024
+Update 09.05.2024
 
 ## Klippersteuerung mit Raspberry Pi 5 und NVMe
 
@@ -37,6 +37,18 @@ Dieses Projekt ermöglicht die Steuerung eines 3D-Druckers unter Verwendung der 
 3. Konfiguriere die Klipper-Firmware, um die Sensoren, Relais und das Display zu erkennen und zu steuern. Eine Beispielkonfiguration ist im Repository enthalten.
 4. Verbinde deinen 3D-Drucker mit dem Raspberry Pi und teste die Funktionalität.
 
+   KIAUH -- Klipper Installation And Update Helper
+       (https://github.com/dw-0/kiauh)
+
+        sudo apt-get update && sudo apt-get install git -y
+
+        cd ~ && git clone https://github.com/dw-0/kiauh.git
+
+        ./kiauh/kiauh.sh
+
+ 
+
+
 ## Beiträge
 
 Beiträge sind immer willkommen! Wenn du Verbesserungen vornehmen möchtest, eine Funktion hinzufügen möchtest oder ein Problem beheben möchtest, öffne bitte ein Issue oder sende einen Pull-Request.
@@ -63,4 +75,6 @@ ffc flexible kabel adapter platine 							--> https://s.click.al0express.com/e/_
 Raspberry pi 4 kamera 5mp 									--> https://s.click.aliexpress.com/e/_DkESS4p
 
 Sensor adxl345 digitale dreiachsige Beschleunigung 			--> https://s.click.aliexpress.com/e/_DCgDxRF
+
+USB-CAM                                       --> https://s.click.aliexpress.com/e/_DmlUNZp
 
