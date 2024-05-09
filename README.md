@@ -23,12 +23,17 @@ Dieses Projekt ermöglicht die Steuerung eines 3D-Druckers unter Verwendung der 
 - Ansteckbarer ADXL345-Beschleunigungssensor
 - 2 Relais
 - 5-Zoll DSI Touch Display
-- Raspberry Pi-Kamera
+- (Raspberry Pi-Kamera)
+   Raspberry Pi OS-Images, die auf Debian 12 (Codename 'bookworm') basieren, verwenden derzeit einen anderen Zweig des Kamera-Streamers! Der Raspberry Pi 5 unterstützt nur 
+   ustreamer! Dies liegt an den fehlenden JPEG- und H264-Hardware-Encodern.
+
+- mit USB Cam ist ok..
+
 
 ## Installation und Konfiguration
 
 1. Lade die Klipper-Firmware herunter und folge den Anweisungen auf deren GitHub-Repository für die Installation.
-2. Schließe die NVMe-Speichererweiterung, Sensoren, das 5-Zoll DSI Touch Display und die Raspberry Pi-Kamera gemäß den Anweisungen des Herstellers an den Raspberry Pi an.
+2. Schließe die NVMe-Speichererweiterung, Sensoren, das 5-Zoll DSI Touch Display und die USB-Kamera gemäß den Anweisungen des Herstellers an den Raspberry Pi an.
 3. Konfiguriere die Klipper-Firmware, um die Sensoren, Relais und das Display zu erkennen und zu steuern. Eine Beispielkonfiguration ist im Repository enthalten.
 4. Verbinde deinen 3D-Drucker mit dem Raspberry Pi und teste die Funktionalität.
 
